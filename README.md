@@ -2,7 +2,7 @@
 
 An interdisciplinary Unity 3D application that visualizes and simulates an **internal rotary calciner** to make process engineering concepts more intuitive for students and trainees.  
 
-## My Contributions
+### My Contributions
 Developed core C# scripts for the Unity application to handle scene navigation, calciner animations, and interactive 3D exploration. Implemented software design patterns (Singleton, ECS, Decorator) for maintainable code architecture.
 
 **WebGL app (play in browser):** [https://bnkavyashree.github.io/calciner_quest_unity_project/](https://bnkavyashree.github.io/calciner_quest_unity_project/)  
