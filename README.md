@@ -1,10 +1,12 @@
 # Visualization of Process Engineering (Calciner) using Unity 3D — Calciner Quest
 
 An interdisciplinary Unity 3D application that visualizes and simulates an **internal rotary calciner** to make process engineering concepts more intuitive for students and trainees.  
-I led the 3D component modeling pipeline and Unity development, collaborating with Chemical Engineering students at OvGU to ensure the simulation reflects real-world equipment behavior and process context.
 
-**WebGL app (play in browser):** [https://ranjith-24-prog.github.io/calciner_quest_unity_project/](https://ranjith-24-prog.github.io/calciner_quest_unity_project/)  
-**Portfolio write-up:** [Calciner Quest (Unity 3D)](https://ranjith-mahesh-en.carrd.co/#unity)  
+## My Contributions
+Developed core C# scripts for the Unity application to handle scene navigation, calciner animations, and interactive 3D exploration. Implemented software design patterns (Singleton, ECS, Decorator) for maintainable code architecture.
+
+**WebGL app (play in browser):** [https://bnkavyashree.github.io/calciner_quest_unity_project/](https://bnkavyashree.github.io/calciner_quest_unity_project/)  
+**Portfolio write-up:** [Calciner Quest (Unity 3D)]((https://kavyashreebn-en.carrd.co/#calciner))  
 **University/Project:** Otto von Guericke University (OvGU) — Interdisciplinary team project
 
 ![App Screenshot](assets/calcinerapp.png)
