@@ -6,7 +6,7 @@ An interdisciplinary Unity 3D application that visualizes and simulates an **int
 Developed core C# scripts for the Unity application to handle scene navigation, calciner animations, and interactive 3D exploration. Implemented software design patterns (Singleton, ECS, Decorator) for maintainable code architecture.
 
 **WebGL app (play in browser):** [https://bnkavyashree.github.io/calciner_quest_unity_project/](https://bnkavyashree.github.io/calciner_quest_unity_project/)  
-**Portfolio write-up:** [Calciner Quest (Unity 3D)]((https://kavyashreebn-en.carrd.co/#calciner))  
+**Portfolio write-up:** [Calciner Quest (Unity 3D)](https://kavyashreebn-en.carrd.co/#calciner)  
 **University/Project:** Otto von Guericke University (OvGU) — Interdisciplinary team project
 
 ![App Screenshot](assets/calcinerapp.png)
