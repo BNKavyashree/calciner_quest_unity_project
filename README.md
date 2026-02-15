@@ -65,6 +65,11 @@ This project focuses on:
 - WebGL performance depends on browser/device resources; for best results use a modern desktop browser.
 - Simulation is designed for educational visualization (not a replacement for high-fidelity process simulators).
 
+## Authors
+
+- Kavyashree Byalya Nanjegowda : kavyashree.byalya@st.ovgu.de
+- Ranjith Mahesh : ranjith.mahesh@st.ovgu.de
+
 ## Future enhancements
 - Add real-time parameter controls (temperature, feed rate) for experiment-style exploration.
 - Add quizzes/challenges for deeper learning engagement.
